@@ -1,6 +1,6 @@
 public class A{
  public static void main(String[] args){
-  System.out.println(11111122);
+  System.out.println(233232);
   System.out.println(22223332);
   System.out.println(26666688);
   
