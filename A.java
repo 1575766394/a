@@ -3,5 +3,6 @@ public class A{
 	 	//aaaaa
 	 System.out.println(111111);
   System.out.println(2222333);
+  System.out.println("¸üĞÂ");
  }
 }
